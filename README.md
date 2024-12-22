@@ -3,7 +3,7 @@
 ## About Me  
 Hi, I’m Tamara Saqer—a Program Manager, Data Analyst, and occasional meme creator from Palestine 🇵🇸. I specialize in using data to solve problems, optimize processes, and bring a little humor to the mix with well-timed memes.   
 
-## Skills Snapshot  
+## Skills Snapshot 🛠️
 - **Data Tools:** Python 🐍, SQL, Tableau, Advanced Excel.  
 - **Languages:** Arabic 🇵🇸 (native), English 🇬🇧 (bilingual), French 🇫🇷 (conversational).  
 - **Facilitation:** Experienced in creating inclusive and effective dialogue platforms.
