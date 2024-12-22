@@ -1,7 +1,7 @@
 # README: Tamara Saqer ✨
 
 ## About Me  
-Hi, I’m Tamara Saqer—a Program Manager, Data Analyst, and occasional meme creator 🎭 from Palestine 🇵🇸. I specialize in using data to solve problems, optimize processes, and bring a little humor to the mix with well-timed memes.   
+Hi, I’m Tamara Saqer—a Program Manager, Data Analyst, and occasional meme creator from Palestine 🇵🇸. I specialize in using data to solve problems, optimize processes, and bring a little humor to the mix with well-timed memes.   
 
 ## Skills Snapshot  
 - **Data Tools:** Python 🐍, SQL, Tableau, Advanced Excel.  
