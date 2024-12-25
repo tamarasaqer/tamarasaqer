@@ -2,9 +2,11 @@
 
 ## About Me
 
-Hi, I’m Tamara Saqer—a Program Manager, Data Analyst, and occasional meme creator from Palestine 🇵🇸.
+Hi,I’m Tamara Saqer—a Program Manager, Data Analyst,
+and occasional meme creator from Palestine 🇵🇸.
 
-I specialize in using data to solve problems, optimize processes, and bring a little humor to the mix with well-timed memes.
+I specialize in using data to solve problems, optimize processes,
+ and bring a little humor to the mix with well-timed memes.
 
 ## Skills Snapshot 🛠️
 
@@ -19,9 +21,10 @@ I analyze today to build a better tomorrow.
 
 ## Let’s Connect
 
-- **Email:** btamarasaqer@gmail.com
+- **Email:** [btamarasaqer@gmail.com](mailto:btamarasaqer@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tamarasaqer](https://linkedin.com/in/tamarasaqer)
 
 ---
 
-💡 Interested in data analytics, program management, or just swapping memes? Let’s chat!
+💡 Interested in data analytics, program management, or just swapping memes?
+ Let’s chat!
