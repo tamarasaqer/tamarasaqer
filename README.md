@@ -8,21 +8,20 @@ I specialize in using data to solve problems, optimize processes, and bring a li
 
 ## Skills Snapshot 🛠️
 
-- **Data Tools:** Python 🐍, SQL, Tableau, Advanced Excel.
-- **Languages:** Arabic 🇵🇸 (native), English 🇬🇧 (bilingual), French 🇫🇷 (conversational).
-- **Facilitation:** Experienced in creating inclusive and effective dialogue platforms.
+- **Data Tools:** Python 🐍, SQL, Tableau, Advanced Excel.  
+- **Languages:** Arabic 🇵🇸 (native), English 🇬🇧 (bilingual), French 🇫🇷 (conversational).  
+- **Facilitation:** Experienced in creating inclusive and effective dialogue platforms.  
 
 ## Vision 🌟
 
 I believe in using data science to rebuild and empower communities.  
-I analyze today to build a better tomorrow.
+I analyze today to build a better tomorrow.  
 
 ## Let’s Connect
 
-- **Email:** btamarasaqer@gmail.com
-- **LinkedIn:** [linkedin.com/in/tamarasaqer](https://linkedin.com/in/tamarasaqer)
+- **Email:** btamarasaqer@gmail.com  
+- **LinkedIn:** [linkedin.com/in/tamarasaqer](https://linkedin.com/in/tamarasaqer)  
 
 ---
 
 💡 Interested in data analytics, program management, or just swapping memes? Let’s chat!
-
