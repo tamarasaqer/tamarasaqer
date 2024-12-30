@@ -1,4 +1,4 @@
-# README: Tamara Saqer ✨
+# Tamara Saqer ✨
 
 ## About Me
 
